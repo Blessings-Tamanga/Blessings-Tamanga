@@ -5,12 +5,13 @@
 ---
 
 ### 🚀 About Me
-- 🔭 I’m currently working on web development projects and real-world systems  
-- 🌱 I’m currently learning advanced JavaScript, APIs, and system architecture  
-- 👯 I’m looking to collaborate on web apps, SaaS platforms, and creative tech ideas  
-- 🤔 I’m looking for help with scaling my projects and improving backend design  
-- 💬 Ask me about PHP, Python (Kivy), MySQL, HTML/CSS/JS, and UI design  
-- ⚡ Fun fact: I love building animated, modern, and interactive websites  
+-  I’m currently working on web development projects and real-world systems  
+-  I’m currently learning advanced JavaScript, APIs, and system architecture  
+-  I’m looking to collaborate on web apps, SaaS platforms, and creative tech ideas  
+-  I’m looking for help with scaling my projects and improving backend design  
+-  Ask me about PHP(Laravel), Python (FastAPI,Kivy,KivyMD, Pandas, Numpy, Matplotlib, Seaborn, Cloud), JS (NodeJs, NextJS) MySQL,SQLite, OracleDB,  HTML/CSS/JS, and UI design
+-  Honest fact: I am a problem solver
+-  Fun fact: I love building animated, modern, and interactive websites  
 
 ---
 
@@ -30,7 +31,7 @@
 ---
 
 ### 📫 Contact Me
-- Email: your-email@example.com  
+- Email: blessingstamanga@gmail.com  
 - GitHub: [Blessings-Tamanga](https://github.com/Blessings-Tamanga)
 
 ---

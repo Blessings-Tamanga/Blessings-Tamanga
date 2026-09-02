@@ -9,7 +9,7 @@
 -  I’m currently learning advanced JavaScript, APIs, and system architecture  
 -  I’m looking to collaborate on web apps, SaaS platforms, and creative tech ideas  
 -  I’m looking for help with scaling my projects and improving backend design  
--  Ask me about PHP(Laravel), Python (FastAPI,Kivy,KivyMD, Pandas, Numpy, Matplotlib, Seaborn, Cloud), JS (NodeJs, NextJS) MySQL,SQLite, OracleDB,  HTML/CSS/JS, and UI design
+-  Ask me about PHP(Laravel), Python (FastAPI,Kivy,KivyMD, Pandas, Numpy, Matplotlib, Seaborn,llangchain, Cloud), Java(JavaFx, Springboot) JS (NodeJs, NextJS) MySQL,SQLite, OracleDB,  HTML/CSS/JS, and UI design
 -  Honest fact: I am a problem solver
 -  Fun fact: I love building animated, modern, and interactive websites  
 
